@@ -1,0 +1,16 @@
+D:\Нова папка\Lab6OOP\bin\Debug\net8.0-windows\Lab6OOP.exe
+D:\Нова папка\Lab6OOP\bin\Debug\net8.0-windows\Lab6OOP.deps.json
+D:\Нова папка\Lab6OOP\bin\Debug\net8.0-windows\Lab6OOP.runtimeconfig.json
+D:\Нова папка\Lab6OOP\bin\Debug\net8.0-windows\Lab6OOP.dll
+D:\Нова папка\Lab6OOP\bin\Debug\net8.0-windows\Lab6OOP.pdb
+D:\Нова папка\Lab6OOP\obj\Debug\net8.0-windows\Lab6OOP.Form1.resources
+D:\Нова папка\Lab6OOP\obj\Debug\net8.0-windows\Lab6OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab6OOP\obj\Debug\net8.0-windows\Lab6OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab6OOP\obj\Debug\net8.0-windows\Lab6OOP.AssemblyInfoInputs.cache
+D:\Нова папка\Lab6OOP\obj\Debug\net8.0-windows\Lab6OOP.AssemblyInfo.cs
+D:\Нова папка\Lab6OOP\obj\Debug\net8.0-windows\Lab6OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab6OOP\obj\Debug\net8.0-windows\Lab6OOP.dll
+D:\Нова папка\Lab6OOP\obj\Debug\net8.0-windows\refint\Lab6OOP.dll
+D:\Нова папка\Lab6OOP\obj\Debug\net8.0-windows\Lab6OOP.pdb
+D:\Нова папка\Lab6OOP\obj\Debug\net8.0-windows\Lab6OOP.genruntimeconfig.cache
+D:\Нова папка\Lab6OOP\obj\Debug\net8.0-windows\ref\Lab6OOP.dll
